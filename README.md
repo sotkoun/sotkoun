@@ -32,7 +32,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/WSL-1E1E1E?style=for-the-badge&logo=linux&logoColor=yellow" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---
