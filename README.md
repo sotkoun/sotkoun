@@ -4,7 +4,7 @@
 - 🔒 Passionate about Hardware Security and hardware design
 - ⚡ Working with Python, C, C++, VHDL, and Assembly
 - 🐧 Learning Linux and Bash
-- 🔭 Exploring embedded systems and low-level programming every day
+
 
 ---
 
