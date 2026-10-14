@@ -1,7 +1,8 @@
 # 💀 WELCOME TO MY PROFILE
 
 <p align="center">
-  <img src="giphy.gif" width="350" alt="Surprise GIF">
+  <img src="Ry074x.gif" width="350" alt="Surprise GIF">
+  <img src="ai-dog-dancing-dog-dancing.gif" width="350" alt="Surprise GIF">
 </p>
 
 <p align="center">
