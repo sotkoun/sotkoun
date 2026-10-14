@@ -1,8 +1,8 @@
 # 💀 WELCOME TO MY PROFILE
 
 <p align="center">
-  <img src="Ry074x.gif" width="350" alt="Surprise GIF">
-  <img src="ai-dog-dancing-dog-dancing.gif" width="350" alt="Surprise GIF">
+  <img src="kendrick-nunn-nunn.gif" width="350" alt="Surprise GIF">
+  <img src="panathinaikos-nunn.gif" width="350" alt="Surprise GIF">
 </p>
 
 <p align="center">
@@ -64,5 +64,6 @@ Here are some of my key repositories:
 ---
 
 <p align="center">
-  <em>"Simplicity is prerequisite for reliability." — Edsger W. Dijkstra</em>
+  <img src="Ry074x.gif" width="350" alt="Surprise GIF">
+  <img src="ai-dog-dancing-dog-dancing.gif" width="350" alt="Surprise GIF">
 </p>
