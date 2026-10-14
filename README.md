@@ -6,9 +6,8 @@
 </p>
 
 <p align="center">
-  💚 You were not ready for this. 💀
+  <img src="dog_bubbles.svg" width="100%" alt="Dog Bubbles Floating">
 </p>
-
 
 ---
 
