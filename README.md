@@ -1,3 +1,15 @@
+# 💀 WELCOME TO MY PROFILE
+
+<p align="center">
+  <img src="./giphy.gif" width="350" alt="Surprise GIF">
+</p>
+
+<p align="center">
+  <b>💚 You were not ready for this. 💀</b>
+</p>
+
+---
+
 ### 🚀 About Me
 
 - 💻 Electrical & Computer Engineering Student at NTUA (ΕΜΠ)
@@ -5,7 +17,6 @@
 - ⚡ Working with Python, C, C++, VHDL, Assembly, and MATLAB
 - 🐧 Learning Linux and Bash
 - 🔭 Exploring embedded systems and low-level programming every day
-
 ---
 
 ### 🛠️ Tech Stack & Languages:
