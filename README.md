@@ -1,12 +1,13 @@
 # 💀 WELCOME TO MY PROFILE
 
 <p align="center">
-  <img src="./giphy.gif" width="350" alt="Surprise GIF">
+  <img src="https://raw.githubusercontent.com/sotkoun/sotkoun/main/giphy.gif" width="350" alt="Surprise GIF">
 </p>
 
 <p align="center">
-  <b>💚 You were not ready for this. 💀</b>
+  💚 You were not ready for this. 💀
 </p>
+
 
 ---
 
