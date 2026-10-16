@@ -25,27 +25,27 @@
 
 **Languages:**
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-FF8C00?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-E34F26?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-D91414?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/VHDL-FF5722?style=for-the-badge&logo=alpinelinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Assembly-B22222?style=for-the-badge&logo=webassembly&logoColor=white" />
-  <img src="https://img.shields.io/badge/MATLAB-D84315?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-1976D2?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-D32F2F?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-388E3C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/VHDL-7B1FA2?style=for-the-badge&logo=alpinelinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Assembly-FBC02D?style=for-the-badge&logo=webassembly&logoColor=black" />
+  <img src="https://img.shields.io/badge/MATLAB-F57C00?style=for-the-badge&logo=mathworks&logoColor=white" />
 </p>
 
 **Hardware & Embedded Tools:**
 <p align="left">
-  <img src="https://img.shields.io/badge/Vivado-E65100?style=for-the-badge&logo=amd&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vitis-BF360C?style=for-the-badge&logo=xilinx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microchip_Studio-FF7043?style=for-the-badge&logo=microchip&logoColor=white" />
-  <img src="https://img.shields.io/badge/MPLAB_X-E31837?style=for-the-badge&logo=microchip&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microwind-FF9800?style=for-the-badge&logo=appveyor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vivado-C2185B?style=for-the-badge&logo=amd&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vitis-0097A7?style=for-the-badge&logo=xilinx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microchip_Studio-00796B?style=for-the-badge&logo=microchip&logoColor=white" />
+  <img src="https://img.shields.io/badge/MPLAB_X-303F9F?style=for-the-badge&logo=microchip&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microwind-AFB42B?style=for-the-badge&logo=appveyor&logoColor=black" />
 </p>
 
 **OS & Development Tools:**
 <p align="left">
-  <img src="https://img.shields.io/badge/WSL-C62828?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-D32F2F?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/WSL-512DA8?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-0288D1?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
 
 ---
